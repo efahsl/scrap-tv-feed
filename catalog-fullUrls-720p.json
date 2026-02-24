@@ -30,6 +30,33 @@
       "duration_sec": 10
     },
     {
+      "id": "feline-assistant",
+      "type": "movie",
+      "title": "Feline Assistant",
+      "category": "Feline-Friendly",
+      "genres": [
+        "Comedy",
+        "Workplace"
+      ],
+      "trending": true,
+      "rating_count": 5660,
+      "rating_stars": 4.1,
+      "content_rating": "TV-G",
+      "release_year": 2019,
+      "images": {
+        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-assistant/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-assistant/thumbnail_450x253.jpg"
+      },
+      "sources": [
+        {
+          "type": "mp4",
+          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-assistant/movie_720p.mp4"
+        }
+      ],
+      "description": "Abyssinian Organized manages the complex schedules and demands of executive cats. Features cats answering phones, scheduling meetings, and maintaining office organization while dealing with the challenge of keeping important papers from being knocked off desks.",
+      "duration_sec": 10
+    },
+    {
       "id": "behind-the-screams",
       "type": "movie",
       "title": "Behind The Screams",
@@ -81,33 +108,6 @@
         }
       ],
       "description": "Crunch Time livestreams daily cereal tastings with chat interaction, cereal mixing experiments, and guest appearances from other cereal influencers. Kids tune in to watch their favorite streamers try new cereals, rate combinations, and react to viewer suggestions in real-time.",
-      "duration_sec": 10
-    },
-    {
-      "id": "feline-assistant",
-      "type": "movie",
-      "title": "Feline Assistant",
-      "category": "Feline-Friendly",
-      "genres": [
-        "Comedy",
-        "Workplace"
-      ],
-      "trending": true,
-      "rating_count": 5660,
-      "rating_stars": 4.1,
-      "content_rating": "TV-G",
-      "release_year": 2019,
-      "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-assistant/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-assistant/thumbnail_450x253.jpg"
-      },
-      "sources": [
-        {
-          "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-assistant/movie_720p.mp4"
-        }
-      ],
-      "description": "Abyssinian Organized manages the complex schedules and demands of executive cats. Features cats answering phones, scheduling meetings, and maintaining office organization while dealing with the challenge of keeping important papers from being knocked off desks.",
       "duration_sec": 10
     },
     {
