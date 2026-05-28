@@ -17,13 +17,13 @@
       "content_rating": "TV-G",
       "release_year": 2022,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/appointment-delayed/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/appointment-delayed/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/appointment-delayed/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/appointment-delayed/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/appointment-delayed/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/appointment-delayed/movie_720p.mp4"
         }
       ],
       "description": "Sarah Holdpattern captures real people in authentic waiting situations - from doctor's offices to DMV lines. Features candid interviews about what people think about, do, and feel while waiting for important appointments.",
@@ -44,13 +44,13 @@
       "content_rating": "TV-G",
       "release_year": 2019,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-assistant/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-assistant/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/feline-assistant/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/feline-assistant/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-assistant/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/feline-assistant/movie_720p.mp4"
         }
       ],
       "description": "Abyssinian Organized manages the complex schedules and demands of executive cats. Features cats answering phones, scheduling meetings, and maintaining office organization while dealing with the challenge of keeping important papers from being knocked off desks.",
@@ -71,13 +71,13 @@
       "content_rating": "TV-14",
       "release_year": 2022,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/behind-the-screams/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/behind-the-screams/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/behind-the-screams/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/behind-the-screams/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/behind-the-screams/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/behind-the-screams/movie_720p.mp4"
         }
       ],
       "description": "Mort Shambler takes viewers behind the scenes of zombie movie productions, following extras through makeup, rehearsals, and filming. Features the daily challenges of maintaining zombie character while dealing with long shooting days and complex choreography.",
@@ -98,13 +98,13 @@
       "content_rating": "TV-G",
       "release_year": 2024,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/cereal-streamz/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/cereal-streamz/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/cereal-streamz/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/cereal-streamz/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/cereal-streamz/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/cereal-streamz/movie_720p.mp4"
         }
       ],
       "description": "Crunch Time livestreams daily cereal tastings with chat interaction, cereal mixing experiments, and guest appearances from other cereal influencers. Kids tune in to watch their favorite streamers try new cereals, rate combinations, and react to viewer suggestions in real-time.",
@@ -125,13 +125,13 @@
       "content_rating": "TV-MA",
       "release_year": 2023,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-resources/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-resources/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/feline-resources/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/feline-resources/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-resources/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/feline-resources/movie_720p.mp4"
         }
       ],
       "description": "Persian Professional leads the HR department in handling workplace conflicts, performance reviews, and employee relations. Features cats in tiny business suits mediating disputes, though meetings often devolve into grooming sessions and territorial disputes over the best office chairs.",
@@ -152,13 +152,13 @@
       "content_rating": "TV-PG",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/makeup-mayhem/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/makeup-mayhem/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/makeup-mayhem/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/makeup-mayhem/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/makeup-mayhem/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/makeup-mayhem/movie_720p.mp4"
         }
       ],
       "description": "Gore Gorgeous and her team transform ordinary people into convincing zombies. Features time-lapse makeup sessions, special effects techniques, and the challenges of creating realistic zombie looks on tight budgets and schedules.",
@@ -179,13 +179,13 @@
       "content_rating": "TV-MA",
       "release_year": 2023,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/meditation-in-beige/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/meditation-in-beige/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/meditation-in-beige/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/meditation-in-beige/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/meditation-in-beige/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/meditation-in-beige/movie_720p.mp4"
         }
       ],
       "description": "Oatmeal Serenity leads guided meditations in perfectly beige environments designed to promote inner peace. Each episode features different neutral settings from desert landscapes to minimalist studios.",
@@ -206,13 +206,13 @@
       "content_rating": "TV-G",
       "release_year": 2024,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/parking-lot-mysteries/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/parking-lot-mysteries/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/parking-lot-mysteries/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/parking-lot-mysteries/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/parking-lot-mysteries/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/parking-lot-mysteries/movie_720p.mp4"
         }
       ],
       "description": "Detective Lisa Asphalt investigates real crimes that occurred in parking lots across America. From theft to more serious crimes, explore how parking lot security footage and witness testimony help solve cases.",
@@ -233,13 +233,13 @@
       "content_rating": "TV-G",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/parking-wars/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/parking-wars/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/parking-wars/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/parking-wars/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/parking-wars/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/parking-wars/movie_720p.mp4"
         }
       ],
       "description": "Follow the daily adventures of gnome parking enforcement officers as they patrol city streets, issue tiny tickets, and maintain order in parking lots. Chief Gnome Officer Tiny Ticket leads his team of dedicated gnomes through the challenges of urban parking enforcement.",
@@ -260,13 +260,13 @@
       "content_rating": "TV-MA",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/patience-tested/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/patience-tested/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/patience-tested/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/patience-tested/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/patience-tested/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/patience-tested/movie_720p.mp4"
         }
       ],
       "description": "Chuck Endurance hosts this unique game show where contestants compete to see who can wait the longest while maintaining composure. Features increasingly challenging waiting scenarios and distractions.",
@@ -287,13 +287,13 @@
       "content_rating": "TV-MA",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/spot-hunters-season-1/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/spot-hunters-season-1/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/spot-hunters-season-1/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/spot-hunters-season-1/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/spot-hunters-season-1/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/spot-hunters-season-1/movie_720p.mp4"
         }
       ],
       "description": "Contestants compete in timed challenges to find parking spots in increasingly difficult urban environments. From busy shopping centers to downtown business districts, watch as drivers navigate the ultimate parking obstacle course.",
@@ -314,13 +314,13 @@
       "content_rating": "TV-PG",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/spot-hunters-season-2/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/spot-hunters-season-2/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/spot-hunters-season-2/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/spot-hunters-season-2/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/spot-hunters-season-2/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/spot-hunters-season-2/movie_720p.mp4"
         }
       ],
       "description": "Contestants compete in timed challenges to find parking spots in increasingly difficult urban environments. From busy shopping centers to downtown business districts, watch as drivers navigate the ultimate parking obstacle course.",
@@ -341,13 +341,13 @@
       "content_rating": "TV-MA",
       "release_year": 2024,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/startup-strays/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/startup-strays/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/startup-strays/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/startup-strays/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/startup-strays/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/startup-strays/movie_720p.mp4"
         }
       ],
       "description": "Bengal Innovator leads a team of ambitious cats trying to launch the next big tech company. Features cats in hoodies working late nights, pitching to investors, and dealing with the challenges of startup life while maintaining their feline independence.",
@@ -368,13 +368,13 @@
       "content_rating": "TV-G",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/stone-cold-makeovers/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/stone-cold-makeovers/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/stone-cold-makeovers/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/stone-cold-makeovers/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/stone-cold-makeovers/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/stone-cold-makeovers/movie_720p.mp4"
         }
       ],
       "description": "Medusa Stone uses her legendary design skills to create breathtaking beige interiors that literally leave clients stunned. Her signature snake-hair styling and stone-cold professionalism have made her the most sought-after neutral tone designer in the world.",
@@ -395,13 +395,13 @@
       "content_rating": "TV-PG",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-accounting-cats/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-accounting-cats/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-accounting-cats/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-accounting-cats/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-accounting-cats/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-accounting-cats/movie_720p.mp4"
         }
       ],
       "description": "Ragdoll Calculator and her team of accounting cats handle corporate finances with meticulous attention to detail. Features cats wearing tiny glasses and visors, working with calculators and spreadsheets, though they occasionally get distracted by moving cursor arrows on computer screens.",
@@ -422,13 +422,13 @@
       "content_rating": "TV-G",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-art-of-waiting/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-art-of-waiting/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-art-of-waiting/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-art-of-waiting/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-art-of-waiting/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-art-of-waiting/movie_720p.mp4"
         }
       ],
       "description": "Despite his reputation for being a \"bull in a china shop,\" Dr. Ferdinand Bull has mastered the art of patience through years of therapy training. Each episode features practical techniques for managing anxiety, frustration, and restlessness during waiting periods.",
@@ -449,13 +449,13 @@
       "content_rating": "TV-PG",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-beige-knight/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-beige-knight/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-beige-knight/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-beige-knight/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-beige-knight/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-beige-knight/movie_720p.mp4"
         }
       ],
       "description": "By day, Bruce Neutral is a mild-mannered interior designer. By night, he becomes The Beige Knight, using his mastery of neutral tones to calm criminals and restore peace to Gotham's most colorful neighborhoods.",
@@ -476,13 +476,13 @@
       "content_rating": "TV-PG",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-boardroom-cats/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-boardroom-cats/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-boardroom-cats/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-boardroom-cats/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-boardroom-cats/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-boardroom-cats/movie_720p.mp4"
         }
       ],
       "description": "Siamese Supreme leads board meetings with other executive cats including a Bengal CFO, a Russian Blue COO, and a Norwegian Forest Cat head of marketing. Features intense business negotiations interrupted by sudden urges to knock things off the conference table.",
@@ -503,13 +503,13 @@
       "content_rating": "TV-PG",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-corporate-litter/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-corporate-litter/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-corporate-litter/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-corporate-litter/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-corporate-litter/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-corporate-litter/movie_720p.mp4"
         }
       ],
       "description": "Tabby McWhiskers manages a diverse office of cats from tiny kittens to large Maine Coons. Features typical office dynamics with a feline twist - conference room meetings interrupted by laser pointers, and productivity challenges when the afternoon sun hits the perfect napping spot.",
@@ -530,13 +530,13 @@
       "content_rating": "TV-G",
       "release_year": 2019,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-endless-queue/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-endless-queue/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-endless-queue/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-endless-queue/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-endless-queue/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-endless-queue/movie_720p.mp4"
         }
       ],
       "description": "When people join a line for an unknown purpose and discover they can never leave, psychological horror ensues. A mind-bending thriller about conformity, patience, and the dark side of waiting.",
@@ -557,13 +557,13 @@
       "content_rating": "TV-PG",
       "release_year": 2023,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-extra-mile/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-extra-mile/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-extra-mile/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-extra-mile/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-extra-mile/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-extra-mile/movie_720p.mp4"
         }
       ],
       "description": "Veteran zombie extra Harold Shambles reflects on his 30-year career as he prepares for his final zombie role. A touching drama about dedication, artistry, and finding meaning in being part of something bigger than yourself.",
@@ -584,13 +584,13 @@
       "content_rating": "TV-14",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-great-beige-bakeoff/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-great-beige-bakeoff/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-great-beige-bakeoff/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-great-beige-bakeoff/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-great-beige-bakeoff/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-great-beige-bakeoff/movie_720p.mp4"
         }
       ],
       "description": "Vanilla Wheatfield challenges bakers to create stunning desserts using only beige ingredients like vanilla, caramel, wheat flour, and brown sugar. Contestants must prove that neutral doesn't mean boring in this sweet competition.",
@@ -611,13 +611,13 @@
       "content_rating": "TV-14",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-great-parking-shortage/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-great-parking-shortage/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-great-parking-shortage/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-great-parking-shortage/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-great-parking-shortage/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-great-parking-shortage/movie_720p.mp4"
         }
       ],
       "description": "When a major city's parking infrastructure collapses, chaos ensues as millions of drivers compete for the few remaining spots. The gnome enforcement officers must work overtime to maintain order in this parking apocalypse thriller.",
@@ -638,13 +638,13 @@
       "content_rating": "TV-MA",
       "release_year": 2024,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-it-cats/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-it-cats/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-it-cats/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-it-cats/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-it-cats/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-it-cats/movie_720p.mp4"
         }
       ],
       "description": "Maine Coon Techie leads the IT department in solving technical problems and maintaining computer systems. Features cats walking across keyboards, getting tangled in cables, and somehow accidentally fixing problems while investigating interesting computer sounds.",
@@ -665,13 +665,13 @@
       "content_rating": "TV-PG",
       "release_year": 2019,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-waiting-dead/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-waiting-dead/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-waiting-dead/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-waiting-dead/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-waiting-dead/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-waiting-dead/movie_720p.mp4"
         }
       ],
       "description": "Rigor Mortis captures the hilarious downtime between zombie scenes. Features extras in full zombie makeup playing cards, eating lunch, and dealing with the mundane aspects of movie production while looking terrifying.",
@@ -692,13 +692,13 @@
       "content_rating": "TV-G",
       "release_year": 2022,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/appointment-delayed/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/appointment-delayed/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/appointment-delayed/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/appointment-delayed/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/appointment-delayed/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/appointment-delayed/movie_720p.mp4"
         }
       ],
       "description": "Sarah Holdpattern captures real people in authentic waiting situations - from doctor's offices to DMV lines. Features candid interviews about what people think about, do, and feel while waiting for important appointments.",
@@ -719,13 +719,13 @@
       "content_rating": "TV-14",
       "release_year": 2022,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/behind-the-screams/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/behind-the-screams/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/behind-the-screams/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/behind-the-screams/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/behind-the-screams/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/behind-the-screams/movie_720p.mp4"
         }
       ],
       "description": "Mort Shambler takes viewers behind the scenes of zombie movie productions, following extras through makeup, rehearsals, and filming. Features the daily challenges of maintaining zombie character while dealing with long shooting days and complex choreography.",
@@ -746,13 +746,13 @@
       "content_rating": "TV-G",
       "release_year": 2024,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/cereal-streamz/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/cereal-streamz/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/cereal-streamz/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/cereal-streamz/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/cereal-streamz/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/cereal-streamz/movie_720p.mp4"
         }
       ],
       "description": "Crunch Time livestreams daily cereal tastings with chat interaction, cereal mixing experiments, and guest appearances from other cereal influencers. Kids tune in to watch their favorite streamers try new cereals, rate combinations, and react to viewer suggestions in real-time.",
@@ -773,13 +773,13 @@
       "content_rating": "TV-G",
       "release_year": 2019,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-assistant/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-assistant/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/feline-assistant/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/feline-assistant/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-assistant/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/feline-assistant/movie_720p.mp4"
         }
       ],
       "description": "Abyssinian Organized manages the complex schedules and demands of executive cats. Features cats answering phones, scheduling meetings, and maintaining office organization while dealing with the challenge of keeping important papers from being knocked off desks.",
@@ -800,13 +800,13 @@
       "content_rating": "TV-MA",
       "release_year": 2023,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-resources/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-resources/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/feline-resources/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/feline-resources/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/feline-resources/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/feline-resources/movie_720p.mp4"
         }
       ],
       "description": "Persian Professional leads the HR department in handling workplace conflicts, performance reviews, and employee relations. Features cats in tiny business suits mediating disputes, though meetings often devolve into grooming sessions and territorial disputes over the best office chairs.",
@@ -827,13 +827,13 @@
       "content_rating": "TV-PG",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/makeup-mayhem/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/makeup-mayhem/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/makeup-mayhem/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/makeup-mayhem/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/makeup-mayhem/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/makeup-mayhem/movie_720p.mp4"
         }
       ],
       "description": "Gore Gorgeous and her team transform ordinary people into convincing zombies. Features time-lapse makeup sessions, special effects techniques, and the challenges of creating realistic zombie looks on tight budgets and schedules.",
@@ -854,13 +854,13 @@
       "content_rating": "TV-MA",
       "release_year": 2023,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/meditation-in-beige/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/meditation-in-beige/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/meditation-in-beige/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/meditation-in-beige/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/meditation-in-beige/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/meditation-in-beige/movie_720p.mp4"
         }
       ],
       "description": "Oatmeal Serenity leads guided meditations in perfectly beige environments designed to promote inner peace. Each episode features different neutral settings from desert landscapes to minimalist studios.",
@@ -881,13 +881,13 @@
       "content_rating": "TV-G",
       "release_year": 2024,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/parking-lot-mysteries/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/parking-lot-mysteries/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/parking-lot-mysteries/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/parking-lot-mysteries/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/parking-lot-mysteries/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/parking-lot-mysteries/movie_720p.mp4"
         }
       ],
       "description": "Detective Lisa Asphalt investigates real crimes that occurred in parking lots across America. From theft to more serious crimes, explore how parking lot security footage and witness testimony help solve cases.",
@@ -908,13 +908,13 @@
       "content_rating": "TV-G",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/parking-wars/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/parking-wars/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/parking-wars/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/parking-wars/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/parking-wars/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/parking-wars/movie_720p.mp4"
         }
       ],
       "description": "Follow the daily adventures of gnome parking enforcement officers as they patrol city streets, issue tiny tickets, and maintain order in parking lots. Chief Gnome Officer Tiny Ticket leads his team of dedicated gnomes through the challenges of urban parking enforcement.",
@@ -935,13 +935,13 @@
       "content_rating": "TV-MA",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/patience-tested/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/patience-tested/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/patience-tested/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/patience-tested/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/patience-tested/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/patience-tested/movie_720p.mp4"
         }
       ],
       "description": "Chuck Endurance hosts this unique game show where contestants compete to see who can wait the longest while maintaining composure. Features increasingly challenging waiting scenarios and distractions.",
@@ -962,13 +962,13 @@
       "content_rating": "TV-MA",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/spot-hunters-season-1/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/spot-hunters-season-1/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/spot-hunters-season-1/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/spot-hunters-season-1/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/spot-hunters-season-1/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/spot-hunters-season-1/movie_720p.mp4"
         }
       ],
       "description": "Contestants compete in timed challenges to find parking spots in increasingly difficult urban environments. From busy shopping centers to downtown business districts, watch as drivers navigate the ultimate parking obstacle course.",
@@ -989,13 +989,13 @@
       "content_rating": "TV-PG",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/spot-hunters-season-2/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/spot-hunters-season-2/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/spot-hunters-season-2/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/spot-hunters-season-2/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/spot-hunters-season-2/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/spot-hunters-season-2/movie_720p.mp4"
         }
       ],
       "description": "Contestants compete in timed challenges to find parking spots in increasingly difficult urban environments. From busy shopping centers to downtown business districts, watch as drivers navigate the ultimate parking obstacle course.",
@@ -1016,13 +1016,13 @@
       "content_rating": "TV-MA",
       "release_year": 2024,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/startup-strays/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/startup-strays/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/startup-strays/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/startup-strays/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/startup-strays/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/startup-strays/movie_720p.mp4"
         }
       ],
       "description": "Bengal Innovator leads a team of ambitious cats trying to launch the next big tech company. Features cats in hoodies working late nights, pitching to investors, and dealing with the challenges of startup life while maintaining their feline independence.",
@@ -1043,13 +1043,13 @@
       "content_rating": "TV-G",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/stone-cold-makeovers/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/stone-cold-makeovers/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/stone-cold-makeovers/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/stone-cold-makeovers/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/stone-cold-makeovers/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/stone-cold-makeovers/movie_720p.mp4"
         }
       ],
       "description": "Medusa Stone uses her legendary design skills to create breathtaking beige interiors that literally leave clients stunned. Her signature snake-hair styling and stone-cold professionalism have made her the most sought-after neutral tone designer in the world.",
@@ -1070,13 +1070,13 @@
       "content_rating": "TV-PG",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-accounting-cats/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-accounting-cats/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-accounting-cats/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-accounting-cats/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-accounting-cats/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-accounting-cats/movie_720p.mp4"
         }
       ],
       "description": "Ragdoll Calculator and her team of accounting cats handle corporate finances with meticulous attention to detail. Features cats wearing tiny glasses and visors, working with calculators and spreadsheets, though they occasionally get distracted by moving cursor arrows on computer screens.",
@@ -1097,13 +1097,13 @@
       "content_rating": "TV-G",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-art-of-waiting/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-art-of-waiting/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-art-of-waiting/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-art-of-waiting/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-art-of-waiting/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-art-of-waiting/movie_720p.mp4"
         }
       ],
       "description": "Despite his reputation for being a \"bull in a china shop,\" Dr. Ferdinand Bull has mastered the art of patience through years of therapy training. Each episode features practical techniques for managing anxiety, frustration, and restlessness during waiting periods.",
@@ -1124,13 +1124,13 @@
       "content_rating": "TV-PG",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-beige-knight/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-beige-knight/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-beige-knight/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-beige-knight/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-beige-knight/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-beige-knight/movie_720p.mp4"
         }
       ],
       "description": "By day, Bruce Neutral is a mild-mannered interior designer. By night, he becomes The Beige Knight, using his mastery of neutral tones to calm criminals and restore peace to Gotham's most colorful neighborhoods.",
@@ -1151,13 +1151,13 @@
       "content_rating": "TV-PG",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-boardroom-cats/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-boardroom-cats/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-boardroom-cats/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-boardroom-cats/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-boardroom-cats/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-boardroom-cats/movie_720p.mp4"
         }
       ],
       "description": "Siamese Supreme leads board meetings with other executive cats including a Bengal CFO, a Russian Blue COO, and a Norwegian Forest Cat head of marketing. Features intense business negotiations interrupted by sudden urges to knock things off the conference table.",
@@ -1178,13 +1178,13 @@
       "content_rating": "TV-PG",
       "release_year": 2020,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-corporate-litter/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-corporate-litter/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-corporate-litter/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-corporate-litter/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-corporate-litter/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-corporate-litter/movie_720p.mp4"
         }
       ],
       "description": "Tabby McWhiskers manages a diverse office of cats from tiny kittens to large Maine Coons. Features typical office dynamics with a feline twist - conference room meetings interrupted by laser pointers, and productivity challenges when the afternoon sun hits the perfect napping spot.",
@@ -1205,13 +1205,13 @@
       "content_rating": "TV-G",
       "release_year": 2019,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-endless-queue/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-endless-queue/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-endless-queue/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-endless-queue/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-endless-queue/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-endless-queue/movie_720p.mp4"
         }
       ],
       "description": "When people join a line for an unknown purpose and discover they can never leave, psychological horror ensues. A mind-bending thriller about conformity, patience, and the dark side of waiting.",
@@ -1232,13 +1232,13 @@
       "content_rating": "TV-PG",
       "release_year": 2023,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-extra-mile/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-extra-mile/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-extra-mile/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-extra-mile/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-extra-mile/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-extra-mile/movie_720p.mp4"
         }
       ],
       "description": "Veteran zombie extra Harold Shambles reflects on his 30-year career as he prepares for his final zombie role. A touching drama about dedication, artistry, and finding meaning in being part of something bigger than yourself.",
@@ -1259,13 +1259,13 @@
       "content_rating": "TV-14",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-great-beige-bakeoff/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-great-beige-bakeoff/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-great-beige-bakeoff/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-great-beige-bakeoff/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-great-beige-bakeoff/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-great-beige-bakeoff/movie_720p.mp4"
         }
       ],
       "description": "Vanilla Wheatfield challenges bakers to create stunning desserts using only beige ingredients like vanilla, caramel, wheat flour, and brown sugar. Contestants must prove that neutral doesn't mean boring in this sweet competition.",
@@ -1286,13 +1286,13 @@
       "content_rating": "TV-14",
       "release_year": 2021,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-great-parking-shortage/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-great-parking-shortage/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-great-parking-shortage/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-great-parking-shortage/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-great-parking-shortage/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-great-parking-shortage/movie_720p.mp4"
         }
       ],
       "description": "When a major city's parking infrastructure collapses, chaos ensues as millions of drivers compete for the few remaining spots. The gnome enforcement officers must work overtime to maintain order in this parking apocalypse thriller.",
@@ -1313,13 +1313,13 @@
       "content_rating": "TV-MA",
       "release_year": 2024,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-it-cats/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-it-cats/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-it-cats/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-it-cats/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-it-cats/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-it-cats/movie_720p.mp4"
         }
       ],
       "description": "Maine Coon Techie leads the IT department in solving technical problems and maintaining computer systems. Features cats walking across keyboards, getting tangled in cables, and somehow accidentally fixing problems while investigating interesting computer sounds.",
@@ -1340,13 +1340,13 @@
       "content_rating": "TV-PG",
       "release_year": 2019,
       "images": {
-        "poster_16x9": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-waiting-dead/poster_1920x1080.jpg",
-        "thumbnail_450x253": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-waiting-dead/thumbnail_450x253.jpg"
+        "poster_16x9": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-waiting-dead/poster_1920x1080.jpg",
+        "thumbnail_450x253": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-waiting-dead/thumbnail_450x253.jpg"
       },
       "sources": [
         {
           "type": "mp4",
-          "url": "https://github.com/efahsl/scrap-tv-feed/raw/refs/heads/main/content/the-waiting-dead/movie_720p.mp4"
+          "url": "https://raw.githubusercontent.com/efahsl/scrap-tv-feed/refs/heads/main/content/the-waiting-dead/movie_720p.mp4"
         }
       ],
       "description": "Rigor Mortis captures the hilarious downtime between zombie scenes. Features extras in full zombie makeup playing cards, eating lunch, and dealing with the mundane aspects of movie production while looking terrifying.",
